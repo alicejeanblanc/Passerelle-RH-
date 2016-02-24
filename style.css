@@ -54,15 +54,13 @@ h1{
 	color: #337B92;
 }
 footer {
-	margin-top: 20px; 
-	display: flex;
-	flex-direction: row;
+	margin-top: 50px; 
 	background-color: black;
 	color: white;
-	height: 70px;
 }
-.copyright {
-	align-self: flex-end;
-	margin-left: auto;
-	margin-right: auto;
+.nsp {
+	text-align: center;
+}
+.copy{
+	text-align: center;
 }
